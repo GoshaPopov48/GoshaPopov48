@@ -16,30 +16,6 @@
       "name": "python"
     },
     "accelerator": "GPU",
-    "widgets": {
-      "application/vnd.jupyter.widget-state+json": {
-        "45e6f0a0eae74033922bc624ae8069f2": {
-          "model_module": "@jupyter-widgets/controls",
-          "model_name": "HBoxModel",
-          "model_module_version": "1.5.0",
-          "state": {
-            "_dom_classes": [],
-            "_model_module": "@jupyter-widgets/controls",
-            "_model_module_version": "1.5.0",
-            "_model_name": "HBoxModel",
-            "_view_count": null,
-            "_view_module": "@jupyter-widgets/controls",
-            "_view_module_version": "1.5.0",
-            "_view_name": "HBoxView",
-            "box_style": "",
-            "children": [
-              "IPY_MODEL_0062d5a6c36b47978344adb4a12292ed",
-              "IPY_MODEL_894da06e6de04decad1894659392ed07",
-              "IPY_MODEL_d4b6796db057455da0225966e3296e20"
-            ],
-            "layout": "IPY_MODEL_7e17530d72d64020b44b78e972183c8e"
-          }
-        },
         "0062d5a6c36b47978344adb4a12292ed": {
           "model_module": "@jupyter-widgets/controls",
           "model_name": "HTMLModel",
