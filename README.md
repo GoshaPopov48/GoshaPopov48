@@ -79,7 +79,7 @@ PHP-разработчик (Junior)
 | Проект | Ссылка |
 |--------|--------|
 | **Телеграмм чат бот для Викторины** | [GitHub](https://github.com/GoshaPopov48/TelegramBot) |
-| ** ** |[GitHub]|
+| **Мобильный приложение с поддержкой большого количества ИИ-ботов ** |[GitHub](https://github.com/GoshaPopov48/AIChatFlutter/blob/main/README.md)|
 | ** ** |[GitHub]|
 
 
