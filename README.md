@@ -76,7 +76,7 @@ PHP-разработчик (Junior)
 
 
 ## 📌 Основные проекты (ML)
-| ** ** |[GitHub]| 
+| **Телеграмм чат бот для Викторины** |[GitHub](https://github.com/GoshaPopov48/TelegramBot)| 
 | ** ** |[GitHub]|
 | ** ** |[GitHub]|
 
